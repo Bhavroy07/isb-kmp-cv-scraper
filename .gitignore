@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Downloaded CVs and run artifacts (do not publish alumni resumes)
+cvs/
+debug_results.html
+form_dump.json
+kmp_options.json
+all_selects.json
+
+# Playwright / local browser profile is stored outside the repo
+# (~/.isb_kmp_profile) — never copy it here.
