@@ -44,7 +44,7 @@ FILTERS = {
 
 # Keep a results-page card if this text appears in Post ISB Function
 # OR Post ISB Designation. Set to None/"" to download every resume.
-RESULT_NEEDLE = "product"
+RESULT_NEEDLE = "consulting"
 PATTERN_PREFIX = "~"
 OPTIONS_FILE = Path("kmp_options.json")
 
