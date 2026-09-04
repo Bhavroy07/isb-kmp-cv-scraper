@@ -15,7 +15,7 @@ Valid `--company` names are in [`post_isb_companies.txt`](post_isb_companies.txt
 ## Clone and setup
 
 ```bash
-git clone https://github.com/lordshelbyss/isb-kmp-cv-scraper.git
+git clone https://github.com/Bhavroy07/isb-kmp-cv-scraper.git
 cd isb-kmp-cv-scraper
 
 python3 -m venv .venv
